@@ -1,0 +1,22 @@
+{
+  "name": "objectmap",
+  "version": "0.0.1",
+  "description": "use a map, like an object",
+  "main": "index.js",
+  "author": "Calvin Metcalf <calvin.metcalf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "harmony-reflect": "0.0.9",
+    "es6-shim": "~0.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinmetcalf/objectmap.git"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec --harmony test.js"
+  }
+}
