@@ -1,6 +1,6 @@
 {
-  "name": "objectmap",
-  "version": "0.0.1",
+  "name": "mapobject",
+  "version": "0.0.2",
   "description": "use a map, like an object",
   "main": "index.js",
   "author": "Calvin Metcalf <calvin.metcalf@gmail.com>",
